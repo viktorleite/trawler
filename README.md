@@ -10,7 +10,7 @@ git clone https://github.com/viktorleite/trawler.git
 
 Copie os arquivos para o seu projeto
 ```sh
-cp -rf trawler/* seu_projeto/
+cp -rf ./trawler/{docker,docker-compose.yml,.env-example} seu_projeto/
 ```
 
 ```sh
