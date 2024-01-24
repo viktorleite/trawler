@@ -21,8 +21,6 @@ RUN apt-get update && apt-get install -y \
     supervisor \
     nodejs \
     npm \
-    pnpm \
-    bun \
     yarn 
 
 # Clear cache
