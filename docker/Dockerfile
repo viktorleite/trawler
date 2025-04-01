@@ -1,6 +1,6 @@
 FROM php:8.3-fpm
 
-LABEL maintainer="Vitor L. Santos <vitorleit3@gmail.com>"
+LABEL maintainer="Vitor L. Santos <viktorleite.s@gmail.com>"
 LABEL company="Hurezo"
 
 ARG user=trawler
